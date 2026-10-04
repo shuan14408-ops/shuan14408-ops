@@ -1,8 +1,8 @@
 ## 把課堂上的想法，做成學生能動手玩的網站
 
-七個教學網站，涵蓋程式設計、實體運算、融合教育、國際教育、學生共創與資優教育教師工具。全部免安裝，點開就能用。
+六個教學網站，涵蓋程式設計、實體運算、融合教育、學生共創與資優教育教師工具。全部免安裝，點開就能用。
 
-👉 **作品集網站：https://shuan14408-ops.github.io/**
+**作品集網站：https://shuan14408-ops.github.io/**
 
 ---
 
@@ -23,10 +23,10 @@ Blockly 積木控制 SmartRing 燈環，積木與 JavaScript 同步對照。<br>
 <a href="https://shuan14408-ops.github.io/oled-classroom/">試玩</a> · <a href="https://github.com/shuan14408-ops/oled-classroom">原始碼</a>
 </td>
 <td width="33%" valign="top">
-<a href="https://shuan14408-ops.github.io/dino-tuning-lab/"><img src="https://shuan14408-ops.github.io/images/dino-tuning-lab.webp" alt="飛翔小鳥參數實驗室"></a>
+<a href="https://shuan14408-ops.github.io/flap-lab/"><img src="https://shuan14408-ops.github.io/images/flap-lab.webp" alt="飛翔小鳥參數實驗室"></a>
 <b>飛翔小鳥參數實驗室</b><br>
 調整重力與拍翅力度，從玩家變成遊戲設計者。<br>
-<a href="https://shuan14408-ops.github.io/dino-tuning-lab/">試玩</a> · <a href="https://github.com/shuan14408-ops/dino-tuning-lab">原始碼</a>
+<a href="https://shuan14408-ops.github.io/flap-lab/">試玩</a> · <a href="https://github.com/shuan14408-ops/flap-lab">原始碼</a>
 </td>
 </tr>
 </table>
@@ -52,15 +52,11 @@ Blockly 積木控制 SmartRing 燈環，積木與 JavaScript 同步對照。<br>
 <tr>
 <td width="50%" valign="top">
 <a href="https://shuan14408-ops.github.io/115puzzle/"><img src="https://shuan14408-ops.github.io/images/115puzzle.webp" alt="校影九重咒"></a>
-<b>校影九重咒</b><br>
-五年級學生共同創作的校園實境解謎，九位學生各設計一關。<br>
-<a href="https://shuan14408-ops.github.io/115puzzle/">試玩</a> · <a href="https://github.com/shuan14408-ops/115puzzle">原始碼</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://shuan14408-ops.github.io/internationalstore/"><img src="https://shuan14408-ops.github.io/images/internationalstore.webp" alt="國度商店"></a>
-<b>國度商店</b><br>
-掃 QR Code 分組闖關，五大洲文化問答與即時排行榜。<br>
-<a href="https://shuan14408-ops.github.io/internationalstore/">試玩</a> · <a href="https://github.com/shuan14408-ops/internationalstore">原始碼</a>
+<b>校影九重咒</b><br><br>
+五年級學生共同創作的校園實境解謎，九位學生各設計一關，搭配紙本解謎包遊玩。<br><br>
+<a href="https://shuan14408-ops.github.io/115puzzle/">試玩</a> · <a href="https://github.com/shuan14408-ops/115puzzle">原始碼</a>
 </td>
 </tr>
 </table>
