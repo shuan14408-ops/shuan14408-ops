@@ -1,6 +1,6 @@
 ## 把課堂上的想法，做成學生能動手玩的網站
 
-六個教學網站，涵蓋程式設計、實體運算、融合教育、國際教育與學生共創。全部免安裝，點開就能玩。
+七個教學網站，涵蓋程式設計、實體運算、融合教育、國際教育、學生共創與資優教育教師工具。全部免安裝，點開就能用。
 
 👉 **作品集網站：https://shuan14408-ops.github.io/**
 
@@ -61,6 +61,21 @@ Blockly 積木控制 SmartRing 燈環，積木與 JavaScript 同步對照。<br>
 <b>國度商店</b><br>
 掃 QR Code 分組闖關，五大洲文化問答與即時排行榜。<br>
 <a href="https://shuan14408-ops.github.io/internationalstore/">試玩</a> · <a href="https://github.com/shuan14408-ops/internationalstore">原始碼</a>
+</td>
+</tr>
+</table>
+
+### 04 資優教育教師工具
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://shuan14408-ops.github.io/igp/"><img src="https://shuan14408-ops.github.io/images/igp.webp" alt="線上 IGP 生成工具"></a>
+</td>
+<td width="50%" valign="top">
+<b>線上 IGP 生成工具</b><br><br>
+貼上課程內容，自動對應資優特需領綱的學習表現與學習內容，一鍵產生 IGP Word 檔。全程在瀏覽器本機執行，學生資料不上傳。<br><br>
+<a href="https://shuan14408-ops.github.io/igp/">使用</a> · <a href="https://github.com/shuan14408-ops/igp">原始碼</a>
 </td>
 </tr>
 </table>
